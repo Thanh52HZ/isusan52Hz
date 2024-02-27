@@ -4,7 +4,7 @@ Architecture: iphoneos-arm64
 Maintainer: Hao Nguyen
 Installed-Size: 584
 Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 12), emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./1.deb
+Filename: ./com.haoict.facebooknoads_1.4.1_iphoneos-arm64.deb
 Size: 254376
 MD5sum: 7483919c9b44926b6328d3ee7750a240
 SHA1: 918bf787f5cc3ba90d7a90bb172bf78ae36e2ea2
